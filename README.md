@@ -11,6 +11,8 @@ The plugin is designed for `gitbook cli` toolchain.
 ## Warning 
 TODO: This plugin is **unfinished**! It inserts the header and footer HTML correctly, but the Gitbook runtume JS scripts give console errors. I should investigate how to fix these issues.
 
+TODO: check this plugin: https://www.npmjs.com/package/gitbook-plugin-lotadata-header
+
 ## Installation
 
 TODO: upload the plugin to https://npmjs.com.
