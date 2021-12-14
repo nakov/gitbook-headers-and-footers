@@ -1,0 +1,31 @@
+{
+  "name": "gitbook-plugin-headers-and-footers",
+  "version": "1.0.0",
+  "description": "GitBook plugin to add headers and footers (nav header, nav footer, page header, page footer)",
+  "author": {
+    "name": "Svetlin Nakov",
+    "url": "https://nakov.com"
+  },
+  "keywords": [
+    "gitbook",
+    "plugin",
+    "header",
+    "footer",
+    "nakov"
+  ],
+  "dependencies": {
+    "cheerio": "^0.20.0"
+  },
+  "engines": {
+    "gitbook": "^3.*"
+  },
+  "main": "index.js",
+  "readme": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/nakov/gitbook-headers-and-footers"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
